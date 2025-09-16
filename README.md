@@ -29,7 +29,7 @@ Preenchimento iterativo do formulário de cadastro para cada produto da lista.
 
 Tratamento de campos opcionais (como o campo de observação).
 
-Mecanismo de segurança (Failsafe) que permite interromper a execução a qualquer momento movendo o mouse para o canto superior esquerdo da tela.
+
 ---
 ## 🛠️ Tecnologias Utilizadas
 Python 3
