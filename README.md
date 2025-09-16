@@ -17,6 +17,7 @@ Descrição do Projeto
 
 # 📝 Descrição do Projeto
 Este projeto foi criado para solucionar a tarefa manual, repetitiva e suscetível a erros de cadastrar uma grande quantidade de produtos em um sistema web. O script utiliza a biblioteca PyAutoGUI para simular as ações de um usuário (cliques e digitação) e a Pandas para ler os dados dos produtos a partir de um arquivo CSV, criando um fluxo de trabalho 100% automatizado.
+
 ---
 ## ✨ Funcionalidades
 Abertura automática do navegador e navegação para a página de login.
