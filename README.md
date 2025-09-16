@@ -1,4 +1,4 @@
-#🤖 Automação de Cadastro de Produtos com Python
+# 🤖 Automação de Cadastro de Produtos com Python
 Um robô (RPA) simples e funcional desenvolvido em Python para automatizar o preenchimento de formulários de cadastro de produtos em um sistema web.
 ---
 ## 📜 Índice
